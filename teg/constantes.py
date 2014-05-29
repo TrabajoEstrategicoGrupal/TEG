@@ -28,5 +28,6 @@ NOMBRE_COLORES = {
 	COLOR_ROSA: 'rosa',
 	COLOR_AMARILLO: 'amarillo',
 	COLOR_VERDE: 'verde',
+
 }
 
